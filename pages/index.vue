@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { vInterpolate } from '~/directives/v-interpolate.js'
+import { vInterpolate } from '@/directives/v-interpolate'
 
 // TODO: Please sanitize your content before using v-html!
 const contentFromApiCall = `
